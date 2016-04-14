@@ -19,7 +19,7 @@ variable examples:
 
 **todo**
 - figure out a way to parse for variables
-
+- maybe use go instead of python?
 
 ## _specs (apr 8)_
 - python
